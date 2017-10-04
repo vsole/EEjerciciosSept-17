@@ -34,7 +34,7 @@ public class Ejercicio19IF {
              {
                  desc1=importe*23/100;
                  imp1=importe-desc1;        
-             System.out.println("importe com la suma del impuesto:"+imp1);
+             System.out.println("importe com el descuento del impuesto:"+imp1);
              }
         else 
              {
